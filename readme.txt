@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: osdwebdev
-Tags: clean wordpress, remove wordpress logo, remove wordpress title, remove wordpress favicon, remove wordpress branding
+Tags: remove wordpress logo, remove wordpress link, remove wordpress feed, remove branding
 Requires at least: 3.4
 Tested up to: 3.9
 Stable tag: 1.0
