@@ -11,7 +11,7 @@ OSD Remove All WP Branding Plugin is a quick way to remove almost every mention 
 
 == Description ==
 
-OSD Remove All WP Branding Plugin is a quick way to remove almost every mention of Wordpress on your site. This is useful when you need a completely vanilla / brandless setup. This will be updated as Wordpress core changes. See "Other Notes" for a list of all the places that are effected. I think some will be happy with the removal of Wordpress in the title bar in the admin section.  **To gain full usage - in your current theme root directory add a folder named images, and then place your favicon and logo named as follows: favicon.png  &  site-login-logo.png.  If the images folder already exists add those to images to it and you will have a customized favicon for the admin section as well as a custom log screen logo.
+OSD Remove All WP Branding Plugin is a quick way to remove almost every mention of Wordpress on your site. This is useful when you need a completely vanilla / brandless setup. This will be updated as Wordpress core changes. See "Other Notes" for a list of all the places that are effected. I think some will be happy with the removal of Wordpress in the title bar in the admin section.  **To gain full usage - in your current theme root directory add a folder named images, and then place your favicon and logo named as follows: favicon.png  &  site-login-logo.png.  If the images folder already exists add those to images to it and you will have a customized favicon for the admin section as well as a custom log-in screen logo.
 
 == Installation ==
 
