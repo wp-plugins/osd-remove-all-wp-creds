@@ -31,13 +31,13 @@ Yes, as users ask us questions.
 
 == Changelog ==
 
+= 1.1 =
+* Now removing the WordPress generator meta tag
+
 = 1.0 =
 * Initial creation of the OSD Remove all WP Creds
 
 == Upgrade Notice ==
-
-= 1.1 =
-* Now removing the WordPress generator meta tag
 
 = 1.0 =
 Adds desired ability to strip out Wordpress branding for full customization.
