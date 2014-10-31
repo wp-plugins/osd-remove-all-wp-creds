@@ -3,7 +3,7 @@ Contributors: osdwebdev
 Tags: remove wordpress logo, remove wordpress link, remove wordpress feed, remove branding
 Requires at least: 3.4
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,6 +35,9 @@ Yes, as users ask us questions.
 * Initial creation of the OSD Remove all WP Creds
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Now removing the WordPress generator meta tag
 
 = 1.0 =
 Adds desired ability to strip out Wordpress branding for full customization.

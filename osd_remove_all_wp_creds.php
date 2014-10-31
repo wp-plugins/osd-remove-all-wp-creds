@@ -3,7 +3,7 @@
 	Plugin Name: OSD Remove All Wordpress Branding
 	Plugin URI: http://outsidesource.com
 	Description: A plugin that removes all mention of Wordpress on the front and backend of your website
-	Version: 1.0
+	Version: 1.1
 	Author: OSD Web Development Team
 	Author URI: http://outsidesource.com
 	License: GPL2v2
@@ -91,4 +91,11 @@
 		return get_bloginfo('name');
 	}
 	add_filter('login_headertitle', 'osd_replace_login_logo_title');
+
+
+	// Remove the generator meta tag
+	function osd_remove_generator() {
+		return "";
+	}
+	add_filter("the_generator", "osd_remove_generator");
 ?>
